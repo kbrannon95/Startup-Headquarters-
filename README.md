@@ -28,7 +28,7 @@ Parkwoods\n	         	Corrosion Service	        43.752432	    -79.334661	  Const
 Victoria Village\n	  Victoria Village Arena	  43.723481	    -79.315635	  Hockey Arena
 Victoria Village\n	  Portugril	                43.725819	    -79.312785	  Portuguese Restaurant
 
-Finally, I will use publicly available census data for the population of neighborhoods in each city. This will best the metric we use for how congested a neighborhood is. 
+Finally, I will use publicly available census data for the population of neighborhoods in each city. This will be the metric we use for how congested a neighborhood is. 
 
 For New York City, we find the data at https://data.cityofnewyork.us/City-Government/New-York-City-Population-By-Neighborhood-Tabulatio/swpk-hqdp 
 For Chicago, we find the data at https://en.wikipedia.org/wiki/Community_areas_in_Chicago
